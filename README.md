@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=emuenu" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## ✋ Hi there
 
 - I'm a software developer and engineer.
 - How to reach me: [Twitter - @toono_gensou](https://twitter.com/toono_gensou)
-<br>
 - I'm a big fan of Touhou Project and Hatsune Miku !!
+<br>
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=linux,c,cpp,cs,java,html,css,bootstrap,js,ts,react,vite,nodejs,php,python,flask,dart,flutter,latex,notion,docker,mysql,nginx,aws,gcp,firebase,unity,blender" />
